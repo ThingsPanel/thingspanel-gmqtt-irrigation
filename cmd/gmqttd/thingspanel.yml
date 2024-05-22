@@ -11,7 +11,7 @@ db:
     psqlport: 5432
     psqldb: irrigate
     psqluser: postgres
-    psqlpass: ThingsPanel2023
+    psqlpass: postgresThingsPanel2022
 mqtt:
   # root用户的密码
   password: "root"
